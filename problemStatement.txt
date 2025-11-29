@@ -1,0 +1,13 @@
+Event Registration & Ticketing API
+
+Create an API to manage events, attendees, and ticket bookings for an event management platform.
+
+Requirements
+	•	Register/login users; roles: Organizer, Attendee
+	•	CRUD operations on events (Organizer only)
+	•	Users can:
+	•	View events
+	•	Search, filter (category, date, venue), paginate
+
+
+organizer - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Mywicm9sZSI6Im9yZ2FuaXplciIsImlhdCI6MTc2NDM4OTAyOCwiZXhwIjoxNzY0MzkyNjI4fQ.nu_O0IILbsPG-47_-sEGntUvvgOWq6tyyG2Ax8aeZOs
