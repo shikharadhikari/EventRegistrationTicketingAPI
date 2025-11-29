@@ -8,3 +8,5 @@ Requirements
 	•	Users can:
 	•	View events
 	•	Search, filter (category, date, venue), paginate
+
+members: Shikhar Adhikari & Samarpan Rai
